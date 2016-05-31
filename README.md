@@ -9,4 +9,4 @@ Start by cloning this repository `git clone https://github.com/Davlind/DSC.git`
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-
+1. <a href="01.md">Creating a basic configuration and run it<a/>
