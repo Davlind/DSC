@@ -9,4 +9,6 @@ Start by cloning this repository `git clone https://github.com/Davlind/DSC.git`
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-1. <a href="01.md">Creating a basic configuration and run it<a/>
+1. <a href="01.md">Creating a basic configuration and applying it</a>
+2. <a href="02.md">Configuring the Local Configuration Manager</a>
+3. <a href="03.md">Setting up a pull server</a>
